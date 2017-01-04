@@ -3,7 +3,7 @@
 ## 必要なファイル
 - junit.jar
 - hamcrest-core.jar
-* [入手先](https://github.com/junit-team/junit4/wiki/Download-and-Install "Download and Install")
+* [入手先:Download and Install](https://github.com/junit-team/junit4/wiki/Download-and-Install)
 
 ## テスト対象のクラス(Sample.java)
 ```
